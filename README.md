@@ -1,3 +1,3 @@
-# [WebSite] 🗾
+# [WebSite 🗾]
 
-[WebSite]: HTTPS://silea.dev
+[WebSite 🗾]: HTTPS://silea.dev
